@@ -1,4 +1,4 @@
-# Smart-energy-meter-ADI
+# Smart-energy-meter-using-ESP32
 
 Code and Circuit: https://circuitdigest.com/videos/smart-energy-meter-using-esp32
 
